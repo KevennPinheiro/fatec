@@ -53,16 +53,16 @@ header nav ul li a:hover {
 
 #home{
     background-image:url(../Assets/bike_Eletrica.jpeg);
-}
-
-.hero {
-    background: url('hero.jpg') no-repeat center center/cover;
     height: 80vh;
     position: relative;
     display: flex;
     align-items: center;
     justify-content: center;
     text-align: center;
+}
+
+.hero {
+    background: url('hero.jpg') no-repeat center center/cover;
 }
 
 .hero .overlay {
