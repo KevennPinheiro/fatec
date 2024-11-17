@@ -220,6 +220,12 @@ footer a:hover {
         padding-right: 25px;
     }
 
+    #home {
+        height: 50vh; 
+        background-size: contain;
+        background-position: top; 
+    }
+
     .hero h2 {
         font-size: 2rem;
     }
